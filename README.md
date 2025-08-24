@@ -36,9 +36,10 @@ init-grafana:
 ```
 
 2.3 All `docker run` commands for each container; The collection of commands consist of 
+- Node Exporter container
 - Prometheus container
 - Grafana container
-- Apache Web Server container + Apache Exporter container
+- Apache container + Apache Exporter container
 
 ```makefile
 init-node-exporter:
