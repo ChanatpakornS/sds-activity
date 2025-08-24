@@ -79,11 +79,11 @@ init-apache:
 
 Number of collision occur while obtaining device lock while transmitting @ cpu=1
 
-![node_softnet_cpu_collision_total](image-1.png)
+![node_softnet_cpu_collision_total](images/image-1.png)
 
 
 ### Apache Exporter Sample Metrics
 
 Current uptime in seconds
 
-![apache_uptime_seconds_total](image.png)
+![apache_uptime_seconds_total](images/image.png)
