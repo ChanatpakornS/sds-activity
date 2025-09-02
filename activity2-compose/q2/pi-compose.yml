@@ -1,0 +1,11 @@
+name: monitoring
+
+services:
+  node-exporter:
+    image: prom/node-exporter
+    ports:
+      - "9100:9100"
+    deploy:
+      resources:
+        limits:
+          cpus: "0.25"
