@@ -8,3 +8,6 @@
 
 - How to connect Raspberry Pi
 
+### [activity 3: To-Do Microservices](./activity3-todo/)
+
+- To-do microservices with Redis, Nginx
