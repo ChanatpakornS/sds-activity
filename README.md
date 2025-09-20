@@ -11,3 +11,7 @@
 ### [activity 3: To-Do Microservices](./activity3-todo/)
 
 - To-do microservices with Redis, Nginx
+
+### [activity 4: k8s](./activity4-k8s)
+
+- To-do on k8s
