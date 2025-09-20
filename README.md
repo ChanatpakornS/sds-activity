@@ -15,3 +15,7 @@
 ### [activity 4: k8s](./activity4-k8s)
 
 - To-do on k8s
+
+### [activity 5: Terraform](./activity5-terraform)
+
+- To-do with Terraform and Docker provider
