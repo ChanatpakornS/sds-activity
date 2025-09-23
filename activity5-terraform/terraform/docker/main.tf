@@ -35,7 +35,6 @@ resource "docker_container" "todo_service" {
         external = 8000
     }
     env = [
-        "NOTIFICATION_HOST=notification",
         "REDIS_HOST=redis",
     ]
     networks_advanced {
